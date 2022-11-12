@@ -12,8 +12,7 @@ nav {
   .header {
     display: flex;
     justify-content: space-between;
-    background-color: #FEF5F1;
-    padding-top: 40px;
+    background-color: #fef5f1;
   }
   .home,
   .listing,
@@ -23,11 +22,16 @@ nav {
     color: #190e2c;
     margin-right: 90px;
     text-decoration: none;
+    padding-top: 40px;
+    padding-bottom: 20px;
   }
   .signup {
     margin-right: 90px;
-    padding: 10px 7px;
+    margin-top: 30px;
+    padding: 10px 25px;
+    margin-bottom: 30px;
     color: white;
+    border-radius: 5px;
     background-color: #190e2c;
     text-decoration: none;
   }
