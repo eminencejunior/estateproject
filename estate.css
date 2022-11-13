@@ -64,6 +64,15 @@ nav {
 .hello {
   margin-top: 30px;
 }
+.buttons1 {
+  margin-left: 20px;
+}
+.view {
+  padding: 10px 10px;
+}
+.check {
+  padding: 10px 10px;
+}
 @media only screen and (min-width: 600px) {
   nav {
     display: flex;
