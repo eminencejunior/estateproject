@@ -99,6 +99,11 @@ nav {
   padding: 10px 10px;
   color: #190e2c;
 }
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  padding-top: 30px;
+  padding-left: 20px;
+}
 @media only screen and (min-width: 600px) {
   nav {
     display: flex;
