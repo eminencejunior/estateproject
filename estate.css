@@ -44,13 +44,15 @@ nav {
   border: 2px solid white;
 }
 .back {
+  padding-top: 30px;
   position: relative;
-  left: 10%;
+  left: 5%;
 }
 .front {
   position: absolute;
   left: 15%;
-  top: 50%;
+  top: 55%;
+  border: 10px solid #190e2c;
 }
 @media only screen and (min-width: 600px) {
   nav {
