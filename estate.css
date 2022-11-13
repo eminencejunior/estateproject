@@ -107,7 +107,9 @@ h3 {
 }
 .firsthotel {
   border: 1px solid grey;
+  margin-left: 20px;
   border-radius: 5px;
+  width: 270px;
 }
 .rad {
   padding-left: 20px;
@@ -121,9 +123,13 @@ i {
 }
 .Bedroom {
   color: white;
+  padding: 15px 5px;
   border: 1px solid black;
-  font-size: 20px;
+
   border-radius: 5px;
+}
+.firsthotelimg {
+  width: 50px;
 }
 @media only screen and (min-width: 600px) {
   nav {
