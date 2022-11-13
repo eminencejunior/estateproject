@@ -2,6 +2,24 @@
   padding: 0;
   margin: 0;
 }
+.header {
+  padding-top: 20px;
+}
+.find {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+}
+.title {
+  color: #83370E;
+}
+.corper {
+  margin-left: 20px;
+  margin-top: 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+.anywhere {
+  color: #FFA219;
+}
 nav {
   display: none;
 }
@@ -25,6 +43,7 @@ nav {
 }
 .buttons {
   padding-top: 20px;
+  font-family: 'Montserrat', sans-serif;
   padding-left: 30px;
   padding-bottom: 20px;
 }
@@ -60,6 +79,7 @@ nav {
 }
 .enjoy {
   font-size: 30px;
+  font-family: 'Montserrat', sans-serif;
 }
 .hello {
   margin-top: 30px;
