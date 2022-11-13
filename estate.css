@@ -43,6 +43,18 @@ nav {
   color: white;
   border: 2px solid white;
 }
+.images {
+  margin-top: 30px;
+  margin-left: 20px;
+}
+.back {
+  position: relative;
+}
+.front {
+  position: absolute;
+  left: 10%;
+}
+
 @media only screen and (min-width: 600px) {
   nav {
     display: flex;
