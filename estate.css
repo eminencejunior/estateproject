@@ -5,6 +5,21 @@
 nav {
   display: none;
 }
+.sectionmobile {
+  margin-top: 20px;
+  background-image: url(/Rectangle\ 5.png);
+}
+.sectiondesktop {
+  display: none;
+}
+.perfect {
+  padding-left: 30px;
+  padding-top: 40px;
+  color: white;
+}
+.firstimage {
+  display: none;
+}
 @media only screen and (min-width: 600px) {
   nav {
     display: flex;
@@ -34,5 +49,20 @@ nav {
     border-radius: 5px;
     background-color: #190e2c;
     text-decoration: none;
+  }
+  .firstimage {
+    display: flex;
+    justify-content: flex-end;
+    width: 30px;
+    background-repeat: no-repeat;
+  }
+  .sectionmobile {
+    display: none;
+  }
+  .sectiondesktop {
+    display: flex;
+  }
+  .finda {
+    color: #190e2c;
   }
 }
