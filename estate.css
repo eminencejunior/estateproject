@@ -6,19 +6,19 @@
   padding-top: 20px;
 }
 .find {
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-size: 30px;
 }
 .title {
-  color: #83370E;
+  color: #83370e;
 }
 .corper {
   margin-left: 20px;
   margin-top: 20px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 .anywhere {
-  color: #FFA219;
+  color: #ffa219;
 }
 nav {
   display: none;
@@ -43,7 +43,7 @@ nav {
 }
 .buttons {
   padding-top: 20px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   padding-left: 30px;
   padding-bottom: 20px;
 }
@@ -79,15 +79,15 @@ nav {
 }
 .enjoy {
   font-size: 30px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 .hello {
   margin-top: 30px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 .buttons1 {
   margin-left: 20px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   margin-top: 30px;
 }
 .view {
@@ -100,10 +100,30 @@ nav {
   color: #190e2c;
 }
 h3 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   padding-top: 30px;
   padding-left: 20px;
   padding-bottom: 30px;
+}
+.firsthotel {
+  border: 1px solid grey;
+  border-radius: 5px;
+}
+.rad {
+  padding-left: 20px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 25px;
+}
+i {
+  color: #FFA219;
+  background-color: #190e2c;
+  margin-left: 20px;
+}
+.Bedroom {
+  color: white;
+  border: 1px solid black;
+  font-size: 20px;
+  border-radius: 5px;
 }
 @media only screen and (min-width: 600px) {
   nav {
