@@ -175,8 +175,8 @@ h3 {
     justify-content: flex-end;
     margin-left: 1200px;
     width: 630px;
-    margin-top: -300px;
-    height: 830px;
+    margin-top: -330px;
+    height: 700px;
     background-repeat: no-repeat;
   }
   .sectionmobile {
@@ -196,14 +196,23 @@ h3 {
   }
   .you {
     color: grey;
-    font-size: 20px;
+    font-size: 30px;
     margin-top: 60px;
   }
   .back {
-    margin-top: -500px;
+    margin-top: 40px;
+    height: 390px;
+    width: 250px;
+    margin-left: 170px;
+  }
+  .color {
+    background-color: #FDF2ED;
   }
   .front {
-    margin-top: -400px;
+    margin-top: 80px;
+    margin-left: -190px;
+    height: 370px;
+    width: 250px;
   }
   .buttons2 {
     display: flex;
@@ -228,5 +237,16 @@ h3 {
     padding: 10px 35px;
     font-size: 20px;
     margin-top: 30px;
+  }
+  .luxury {
+    position: absolute;
+    margin-left: 700px;
+    margin-top: -300px;
+  }
+  .enjoy {
+    font-size: 50px;
+  }
+  .hello {
+    font-size: 25px;
   }
 }
