@@ -114,11 +114,11 @@ h3 {
 }
 .rad {
   padding-left: 0px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-size: 25px;
 }
 .Bedroom {
-  color: #FFA219;
+  color: #ffa219;
   background-color: #190e2c;
   padding: 3px 3px;
   margin-left: 0px;
@@ -170,7 +170,8 @@ h3 {
   .firstimage {
     display: flex;
     justify-content: flex-end;
-    width: 30px;
+    width: 630px;
+    height: 830px;
     background-repeat: no-repeat;
   }
   .sectionmobile {
