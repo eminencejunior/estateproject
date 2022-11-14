@@ -114,6 +114,33 @@ h3 {
   border-radius: 5px;
   width: 220px;
 }
+.secondhotel {
+  border: 1px solid grey;
+  padding-left: 30px;
+  margin-left: 20px;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  border-radius: 5px;
+  width: 220px;
+}
+.thirdhotel {
+  border: 1px solid grey;
+  padding-left: 30px;
+  margin-left: 20px;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  border-radius: 5px;
+  width: 220px;
+}
+.forthhotel {
+  border: 1px solid grey;
+  padding-left: 30px;
+  margin-left: 20px;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  border-radius: 5px;
+  width: 220px;
+}
 .rad {
    margin-left: -15px;
   font-family: "Montserrat", sans-serif;
@@ -199,6 +226,11 @@ margin-left: -35px;
   nav {
     display: flex;
   }
+  .row {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+  }
   .header {
     display: flex;
     justify-content: space-between;
@@ -214,6 +246,18 @@ margin-left: -35px;
     text-decoration: none;
     padding-top: 40px;
     padding-bottom: 20px;
+  }
+  .secondhotel {
+    margin-left: 330px;
+    margin-top: -440px;
+  }
+  .thirdhotel {
+    margin-left: 630px;
+    margin-top: -440px;
+  }
+  .forthhotel {
+    margin-left: 940px;
+    margin-top: -440px;
   }
   .signup {
     margin-right: 90px;
