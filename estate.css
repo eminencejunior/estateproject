@@ -241,12 +241,25 @@ h3 {
   .luxury {
     position: absolute;
     margin-left: 700px;
-    margin-top: -300px;
+    margin-top: -390px;
   }
   .enjoy {
     font-size: 50px;
   }
   .hello {
     font-size: 25px;
+  }
+  .buttons1 {
+     position: absolute;
+     margin-top: -30px;
+     margin-left: 710px;
+  }
+  .view {
+    font-size: 20px;
+    border-radius: 5px;
+  }
+  .check {
+    font-size: 20px;
+    border-radius: 5px;
   }
 }
