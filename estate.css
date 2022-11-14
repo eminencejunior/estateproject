@@ -193,6 +193,9 @@ margin-left: -35px;
   display: none;
 }
 @media only screen and (min-width: 600px) {
+  body {
+    overflow-x: hidden;
+  }
   nav {
     display: flex;
   }
