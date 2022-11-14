@@ -113,7 +113,7 @@ h3 {
   width: 220px;
 }
 .rad {
-  padding-left: 0px;
+   margin-left: -15px;
   font-family: "Montserrat", sans-serif;
   font-size: 25px;
 }
@@ -121,7 +121,7 @@ h3 {
   color: #ffa219;
   background-color: #190e2c;
   padding: 3px 3px;
-  margin-left: 0px;
+  margin-left: -10px;
 }
 .room {
   color: white;
