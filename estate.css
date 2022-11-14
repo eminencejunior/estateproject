@@ -156,6 +156,14 @@ margin-left: -35px;
 .tower1 {
   color: white;
 }
+.wifi {
+  color: #ffa219;
+  background-color: #190e2c;
+  padding: 3px 3px;
+}
+.wifi1 {
+  color: white;
+}
 .buttons2 {
   display: none;
 }
