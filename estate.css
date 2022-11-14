@@ -123,6 +123,11 @@ h3 {
   padding: 3px 3px;
   margin-left: -10px;
 }
+.heater {
+  color: #ffa219;
+  background-color: black;
+  padding: 3px 3px;
+}
 .room {
   color: white;
 }
