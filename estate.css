@@ -170,6 +170,7 @@ h3 {
   .firstimage {
     display: flex;
     justify-content: flex-end;
+    margin-left: 1200px;
     width: 630px;
     height: 830px;
     background-repeat: no-repeat;
@@ -182,5 +183,18 @@ h3 {
   }
   .finda {
     color: #190e2c;
+  }
+  .finda {
+    
+     color: black;
+     font-family: "Montserrat", sans-serif;
+     font-size: 70px;
+  }
+  .anywhere {
+    color: #83370e;
+  }
+  .you {
+    color: grey;
+    font-size: 20px;
   }
 }
