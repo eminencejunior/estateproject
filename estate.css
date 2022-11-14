@@ -187,9 +187,9 @@ h3 {
     margin-top: 30px;
   }
   .finda {
-     color: black;
-     font-family: "Montserrat", sans-serif;
-     font-size: 70px;
+    color: black;
+    font-family: "Montserrat", sans-serif;
+    font-size: 70px;
   }
   .anywhere {
     color: #83370e;
@@ -211,9 +211,22 @@ h3 {
   .get {
     position: absolute;
     margin-top: 30px;
-    margin-left: 200px
+    font-size: 20px 10px;
+    background-color: #190e2c;
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    border: 1px solid #190e2c;
+    font-size: 20px;
   }
   .learn {
     position: absolute;
+    margin-left: 180px;
+    background-color: white;
+    color: #190e2c;
+    border: 1px solid #190e2c;
+    font-family: "Montserrat", sans-serif;
+    padding: 10px 35px;
+    font-size: 20px;
+    margin-top: 30px;
   }
 }
