@@ -21,7 +21,8 @@
   color: #ffa219;
 }
 nav {
-  display: none;
+  display: flex;
+  flex-direction: column;
 }
 .sectionmobile {
   margin-top: 20px;
@@ -219,12 +220,16 @@ margin-left: -35px;
 .buttons2 {
   display: none;
 }
+.navshortcut {
+  margin-left: 140px;
+}
 @media only screen and (min-width: 600px) {
   body {
     overflow-x: hidden;
   }
   nav {
     display: flex;
+    margin-top: -25px;
   }
   .row {
     display: flex;
@@ -272,7 +277,8 @@ margin-left: -35px;
   .firstimage {
     display: flex;
     justify-content: flex-end;
-    margin-left: 1200px;
+     align-items: center;
+    margin-left: 900px;
     width: 630px;
     margin-top: -330px;
     height: 700px;

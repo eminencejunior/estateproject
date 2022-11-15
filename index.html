@@ -12,17 +12,40 @@
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap" rel="stylesheet">
   </head>
   <body>
+    <script>
+      function showNav(){
+        nav.classList.toggle ('mobile')
+      }
+    </script>
     <header>
       <div class="header">
         <span class="corper">Corpers <span class="title">Lodge</span></span>
-        <nav>
-          <a href="/" class="home">Home</a>
-          <a href="/" class="listing">Listing</a>
-          <a href="/" class="Aboutus">About Us</a>
-          <a href="/" class="contact">Contact</a>
-          <a href="/" class="login">Login</a>
-          <a href="/" class="signup">Sign Up</a>
-        </nav>
+        <span class="navshortcut" id="mobilenav" onclick="showNav()" >
+          <svg
+        width="24"
+        height="24"
+        xmlns="http://www.w3.org/2000/svg"
+        fill-rule="evenodd"
+        clip-rule="evenodd"
+        >
+        <path
+        d="M24 18v1h-24v-1h24zm0-6v1h-24v-1h24zm0-6v1h-24v-1h24z"
+        fill="#1040e2"
+        stroke="black"
+        stroke-width="1.5"
+        ></path>
+        <path
+        d="M24 19h-24v-1h24v1zm0-6h-24v-1h24v1zm0-6h-24v-1h24v1z"
+        ></path>
+      </svg>
+      <nav>
+        <a href="/" class="home">Home</a>
+        <a href="/" class="listing">Listing</a>
+        <a href="/" class="Aboutus">About Us</a>
+        <a href="/" class="contact">Contact</a>
+        <a href="/" class="login">Login</a>
+        <a href="/" class="signup">Sign Up</a>
+      </nav>
       </div>
       <section class="sectionmobile">
         <div class="perfect">
