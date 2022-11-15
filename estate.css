@@ -20,9 +20,22 @@
 .anywhere {
   color: #ffa219;
 }
-nav {
+.mobile {
   display: flex;
+}
+nav {
+  display: none;
   flex-direction: column;
+  background-color: white;
+  position: absolute;
+  top: 0;
+  padding: 5vh 9vh 5vh 2vh;
+}
+nav a {
+  text-decoration: none;
+  padding: 5px;
+  color: black;
+  border-bottom: 1px solid rgb(226, 222, 222);
 }
 .sectionmobile {
   margin-top: 20px;
@@ -239,18 +252,24 @@ margin-left: -35px;
   .header {
     display: flex;
     justify-content: space-between;
+    width: 50%;
+  }
+  header {
     background-color: #fef5f1;
   }
-  .home,
-  .listing,
-  .Aboutus,
-  .contact,
-  .login {
-    color: #190e2c;
-    margin-right: 90px;
+  nav{
+    display: flex;
+    flex-direction: row;
+    background-color:none;
+    position:relative;
+    padding: 0vh 0vh 0vh 0vh;
+    border: none;
+  }
+  nav a {
     text-decoration: none;
-    padding-top: 40px;
-    padding-bottom: 20px;
+    padding: 5px;
+    color: black;
+    border-bottom: none;
   }
   .secondhotel {
     margin-left: 330px;
@@ -265,9 +284,9 @@ margin-left: -35px;
     margin-top: -440px;
   }
   .signup {
-    margin-right: 90px;
-    margin-top: 30px;
-    padding: 10px 25px;
+    
+    
+    padding: 10px 10px;
     margin-bottom: 30px;
     color: white;
     border-radius: 5px;
