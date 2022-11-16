@@ -272,13 +272,20 @@ margin-left: -35px;
   .listing {
     margin-right: 130px;
   }
+  .login {
+    margin-left: 250px;
+  }
+  .contact {
+    margin-left: 400px;
+  }
+  .about
   .signup {
     display: flex;
     justify-content: flex-end;
     width: 90px;
-    
+
     align-items:flex-end;
-    margin-left: 500px;
+    margin-left: 200px;
   }
   nav a {
     text-decoration: none;
