@@ -267,7 +267,10 @@ margin-left: -35px;
     background-color: #fef5f1;
   }
   .home {
-    margin-right: 30px;
+    margin-right: 130px;
+  }
+  .listing {
+    margin-right: 130px;
   }
   nav a {
     text-decoration: none;
