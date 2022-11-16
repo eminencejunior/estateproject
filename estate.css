@@ -276,16 +276,15 @@ margin-left: -35px;
     margin-left: 250px;
   }
   .contact {
-    margin-left: 400px;
+    margin-left: 200px;
   }
   .Aboutus {
-    margin-left: 400px;
+    width: 120px;
   }
   .signup {
     display: flex;
     justify-content: flex-end;
     width: 90px;
-
     align-items:flex-end;
     margin-left: 200px;
   }
