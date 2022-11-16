@@ -272,6 +272,14 @@ margin-left: -35px;
   .listing {
     margin-right: 130px;
   }
+  .signup {
+    display: flex;
+    justify-content: flex-end;
+    width: 90px;
+    
+    align-items:flex-end;
+    margin-left: 500px;
+  }
   nav a {
     text-decoration: none;
     padding: 5px;
