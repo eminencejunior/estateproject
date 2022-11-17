@@ -156,6 +156,7 @@ h3 {
   width: 270px;
 }
 .rad {
+  margin-top: -10px;
    margin-left: -15px;
   font-family: "Montserrat", sans-serif;
   font-size: 25px;
@@ -163,13 +164,16 @@ h3 {
 .Bedroom {
   color: #ffa219;
   background-color: #190e2c;
-  padding: 3px 3px;
+  padding: 6px 3px;
+  border-radius: 5px;
   margin-left: -10px;
+  margin-right: 10px;
 }
 .heater {
   color: #ffa219;
   background-color: #190e2c;
   padding: 3px 3px;
+  margin-right: 10px;
 }
 .heater1 {
   color: white;
@@ -186,6 +190,7 @@ h3 {
 }
 .room {
   color: white;
+  font-size: 10px;
 }
 .firsthotelimg {
 width: 310px;
