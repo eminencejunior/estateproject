@@ -131,29 +131,29 @@ h3 {
 .secondhotel {
   border: 1px solid grey;
   padding-left: 30px;
-  margin-left: 60px;
+  margin-left: 30px;
   padding-bottom: 30px;
   margin-bottom: 30px;
   border-radius: 5px;
-  width: 220px;
+  width: 270px;
 }
 .thirdhotel {
   border: 1px solid grey;
   padding-left: 30px;
-  margin-left: 60px;
+  margin-left: 30px;
   padding-bottom: 30px;
   margin-bottom: 30px;
   border-radius: 5px;
-  width: 220px;
+  width: 270px;
 }
 .forthhotel {
   border: 1px solid grey;
   padding-left: 30px;
-  margin-left: 60px;
+  margin-left: 30px;
   padding-bottom: 30px;
   margin-bottom: 30px;
   border-radius: 5px;
-  width: 220px;
+  width: 270px;
 }
 .rad {
    margin-left: -15px;
@@ -188,8 +188,8 @@ h3 {
   color: white;
 }
 .firsthotelimg {
-width: 320px;
-margin-left: -75px;
+width: 310px;
+margin-left: -35px;
 }
 .tower {
   color: #ffa219;
