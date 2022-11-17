@@ -266,27 +266,37 @@ margin-left: -35px;
     border: none;
     background-color: #fef5f1;
   }
+  .corper {
+    width: 230px;
+  }
   .home {
-    margin-right: 130px;
+    margin-left: 930px;
   }
   .listing {
-    margin-right: 130px;
+    width: 70px;
+    margin-left: 50px;
   }
   .login {
-    margin-left: 250px;
+    width: 70px;
+    margin-left: 40px;
   }
   .contact {
-    margin-left: 200px;
+    width: 70px;
+    margin-left: 40px;
   }
   .Aboutus {
-    width: 120px;
+    width: 70px;
+    margin-left: 40px;
   }
   .signup {
     display: flex;
     justify-content: flex-end;
-    width: 90px;
+    padding: 10px 5px;
+    padding-right: 30px;
+    background-color: #190e2c;
+    color: white;
+    width: 70px;
     align-items:flex-end;
-    margin-left: 200px;
   }
   nav a {
     text-decoration: none;
@@ -307,16 +317,7 @@ margin-left: -35px;
     margin-left: 940px;
     margin-top: -480px;
   }
-  .signup {
-    
-    
-    padding: 10px 10px;
-    margin-bottom: 30px;
-    color: white;
-    border-radius: 5px;
-    background-color: #190e2c;
-    text-decoration: none;
-  }
+ 
   .firstimage {
     display: flex;
     justify-content: flex-end;
