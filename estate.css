@@ -334,13 +334,17 @@ margin-left: -35px;
     border-bottom: none;
     background-color: #fef5f1;
   }
+  .firsthotel {
+    margin-top: 0px;
+    margin-left: 90px;
+  }
   .secondhotel {
     margin-left: 470px;
-    margin-top: -480px;
+    margin-top: -470px;
   }
   .thirdhotel {
-    margin-left: 830px;
-    margin-top: -480px;
+    margin-left: 840px;
+    margin-top: -470px;
   }
   .forthhotel {
     margin-left: 1200px;
