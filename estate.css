@@ -45,7 +45,7 @@ nav a {
   display: none;
 }
 .perfect {
-  padding-left: 30px;
+  padding-left: 20px;
   padding-top: 40px;
   color: white;
 }
@@ -105,7 +105,7 @@ nav a {
   margin-top: 30px;
 }
 .view {
-  padding: 10px 10px;
+  padding: 10px 0px;
   background-color: #190e2c;
   color: white;
 }
@@ -121,53 +121,53 @@ h3 {
 }
 .firsthotel {
   border: 1px solid grey;
-  padding-left: 30px;
-  margin-left: 30px;
+  padding-left: 40px;
+  margin-left: 20px;
   padding-bottom: 30px;
   margin-bottom: 30px;
   border-radius: 5px;
-  width: 270px;
+  width: 200px;
 }
 .secondhotel {
   border: 1px solid grey;
-  padding-left: 30px;
-  margin-left: 30px;
+  padding-left: 40px;
+  margin-left: 20px;
   padding-bottom: 30px;
   margin-bottom: 30px;
   border-radius: 5px;
-  width: 270px;
+  width: 200px;
 }
 .thirdhotel {
   border: 1px solid grey;
-  padding-left: 30px;
-  margin-left: 30px;
+  padding-left: 40px;
+  margin-left: 20px;
   padding-bottom: 30px;
   margin-bottom: 30px;
   border-radius: 5px;
-  width: 270px;
+  width: 200px;
 }
 .forthhotel {
   border: 1px solid grey;
-  padding-left: 30px;
-  margin-left: 30px;
+  padding-left: 40px;
+  margin-left: 20px;
   padding-bottom: 30px;
   margin-bottom: 30px;
   border-radius: 5px;
-  width: 270px;
+  width: 200px;
 }
 .rad {
   margin-top: -10px;
-   margin-left: -15px;
+  margin-left: -25px;
   font-family: "Montserrat", sans-serif;
   font-size: 25px;
 }
 .Bedroom {
   color: #ffa219;
   background-color: #190e2c;
-  padding: 6px 3px;
+  padding: 3px 3px;
   border-radius: 5px;
-  margin-left: -10px;
-  margin-right: 10px;
+  margin-left: -30px;
+  margin-right: 0px;
 }
 .heater {
   color: #ffa219;
@@ -177,24 +177,26 @@ h3 {
 }
 .heater1 {
   color: white;
+  font-size: 10px;
 }
 .parking {
   color: #ffa219;
   background-color: #190e2c;
   padding: 3px 3px;
-  margin-left: -10px;
+  margin-left: -30px;
   margin-top: 20px;
 }
 .parking1 {
   color: white;
+  font-size: 10px;
 }
 .room {
   color: white;
-  font-size: 10px;
+  font-size: 8px;
 }
 .firsthotelimg {
-width: 310px;
-margin-left: -35px;
+  width: 250px;
+  margin-left: -45px;
 }
 .tower {
   color: #ffa219;
@@ -203,6 +205,7 @@ margin-left: -35px;
 }
 .tower1 {
   color: white;
+  font-size: 10px;
 }
 .wifi {
   color: #ffa219;
@@ -211,28 +214,32 @@ margin-left: -35px;
 }
 .wifi1 {
   color: white;
+  font-size: 10px;
 }
 .pool {
   color: #ffa219;
   background-color: #190e2c;
   padding: 3px 3px;
+  padding-left: 10px;
 }
 .pool1 {
   color: white;
+  font-size: 10px;
 }
 .link {
   text-decoration: none;
-  color:white;
-  background-color: #BA7004;
+  color: white;
+  background-color: #ba7004;
   font-family: "Montserrat", sans-serif;
   padding: 3px 3px;
   border-radius: 5px;
-  margin-left: 70px;
-  margin-top: 10px;
+  float: right;
+  margin-top: 0px;
 }
 .price {
   font-family: "Montserrat", sans-serif;
-  margin-top: 20px;
+  margin-top: 30px;
+  margin-bottom: 20px;
   font-size: 20px;
 }
 .buttons2 {
@@ -242,28 +249,36 @@ margin-left: -35px;
   margin-left: 80px;
 }
 .ogun {
-  margin-left: 50px;
+  margin-left: 20px;
+  width: 240px;
 }
 .lagos {
-  margin-left: 50px;
+  margin-left: 20px;
+  width: 240px;
 }
 .kogi {
-  margin-left: 50px;
+  margin-left: 20px;
+  width: 240px;
 }
 .kaduna {
-  margin-left: 50px;
+  margin-left: 20px;
+  width: 240px;
 }
 .ibadan {
-  margin-left: 50px;
+  margin-left: 20px;
+  width: 240px;
 }
 .akwa {
-  margin-left: 50px;
+  margin-left: 20px;
+  width: 240px;
 }
 .akure {
-  margin-left: 50px;
+  margin-left: 20px;
+  width: 240px;
 }
 .abuja {
-  margin-left: 50px;
+  margin-left: 20px;
+  width: 240px;
 }
 @media only screen and (min-width: 600px) {
   body {
@@ -286,11 +301,11 @@ margin-left: -35px;
   header {
     background-color: #fef5f1;
   }
-  nav{
+  nav {
     display: flex;
     flex-direction: row;
-    background-color:none;
-    position:relative;
+    background-color: none;
+    position: relative;
     padding: 0vh 0vh 0vh 0vh;
     border: none;
     background-color: #fef5f1;
@@ -325,7 +340,7 @@ margin-left: -35px;
     background-color: #190e2c;
     color: white;
     width: 70px;
-    align-items:flex-end;
+    align-items: flex-end;
   }
   nav a {
     text-decoration: none;
@@ -335,25 +350,25 @@ margin-left: -35px;
     background-color: #fef5f1;
   }
   .firsthotel {
-    margin-top: 0px;
+    margin-top: 30px;
     margin-left: 90px;
   }
   .secondhotel {
     margin-left: 470px;
-    margin-top: -470px;
+    margin-top: -400px;
   }
   .thirdhotel {
     margin-left: 840px;
-    margin-top: -470px;
+    margin-top: -400px;
   }
   .forthhotel {
     margin-left: 1200px;
-    margin-top: -470px;
+    margin-top: -400px;
   }
   .firstimage {
     display: flex;
     justify-content: flex-end;
-     align-items: center;
+    align-items: center;
     margin-left: 900px;
     width: 630px;
     margin-top: -330px;
@@ -387,7 +402,7 @@ margin-left: -35px;
     margin-left: 170px;
   }
   .color {
-    background-color: #FDF2ED;
+    background-color: #fdf2ed;
     padding-bottom: 50px;
   }
   .front {
@@ -432,9 +447,9 @@ margin-left: -35px;
     font-size: 25px;
   }
   .buttons1 {
-     position: absolute;
-     margin-top: -40px;
-     margin-left: 710px;
+    position: absolute;
+    margin-top: -40px;
+    margin-left: 710px;
   }
   .view {
     font-size: 20px;
