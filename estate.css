@@ -350,20 +350,37 @@ h3 {
     background-color: #fef5f1;
   }
   .firsthotel {
-    margin-top: 30px;
-    margin-left: 90px;
+    margin-top: 230px;
+    margin-left: 150px;
+    padding-bottom: 50px;
+    width: 250px;
   }
   .secondhotel {
-    margin-left: 470px;
-    margin-top: -400px;
+    margin-left: 580px;
+    margin-top: -490px;
+    position: absolute;
+    padding-bottom: 30px;
+    width: 250px;
   }
   .thirdhotel {
-    margin-left: 840px;
-    margin-top: -400px;
+    margin-left: 1000px;
+    margin-top: -490px;
+    width: 250px;
+    padding-bottom: 60px;
   }
+  
   .forthhotel {
-    margin-left: 1200px;
-    margin-top: -400px;
+    margin-left: 1400px;
+    width: 250px;
+    position: absolute;
+    padding-bottom: 30px;
+    margin-top: -500px;
+  }
+  .pad {
+    margin-top: -20px;
+  }
+  .firsthotelimg {
+    width: 303px;
   }
   .firstimage {
     display: flex;
@@ -459,4 +476,61 @@ h3 {
     font-size: 20px;
     border-radius: 5px;
   }
+  .ogun {
+    width: 350px;
+    margin-right: 60px;
+    margin-left: 140px;
+  }
+  .lagos {
+    width: 350px;
+    margin-right: 60px;
+  }
+.kogi {
+  width: 350px;
+  margin-right: 60px;
+}
+.kaduna {
+  width: 350px;
+  margin-right: 60px;
+}
+.ibadan {
+  margin-top: 40px;
+  width: 350px;
+  margin-left: 140px;
+}
+.akwa {
+  margin-top: 40px;
+  margin-left: 80px;
+  width: 350px;
+}
+.akure {
+  width: 350px;
+  margin-top: 40px;
+  margin-left: 80px;
+}
+.title {
+  position: absolute;
+  margin-left: 10px;
+}
+.corper {
+  margin-bottom: 20px;
+}
+.abuja {
+  width: 350px;
+  margin-top: 40px;
+  margin-left: 80px;
+}
+.lastlink {
+  display: inline-block;
+  margin-left: 790px;
+  background-color: #ba7004;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-top: 40px;
+  color: white;
+  padding: 10px 45px;
+}
+footer {
+  margin-top: 40px;
+}
 }
