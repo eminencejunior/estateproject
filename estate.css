@@ -16,6 +16,7 @@
   margin-left: 20px;
   margin-top: 20px;
   font-family: "Montserrat", sans-serif;
+  font-size: 20px;
 }
 .anywhere {
   color: #ffa219;
@@ -280,6 +281,9 @@ h3 {
   margin-left: 20px;
   width: 240px;
 }
+footer {
+  display: none;
+}
 @media only screen and (min-width: 600px) {
   body {
     overflow-x: hidden;
@@ -301,7 +305,7 @@ h3 {
   header {
     background-color: #fef5f1;
   }
-  nav {
+  #nav {
     display: flex;
     flex-direction: row;
     background-color: none;
@@ -531,6 +535,40 @@ h3 {
   padding: 10px 45px;
 }
 footer {
-  margin-top: 40px;
+  margin-top: 80px;
+  display: flex;
+  position: relative;
+}
+.footcorper {
+margin-left: 6%;
+font-size: 30px;
+font-family: "Montserrat", sans-serif;
+} 
+.footlinks {
+  display: flex;
+  flex-direction: column;
+  margin-left: 30%;
+  background-color: white;
+}
+.use,.cate,.special,.advert {
+  background-color: white;
+  margin-bottom: 20px;
+}
+.footlinks2 {
+  display: flex;
+  flex-direction: column;
+  margin-left: 40%;
+  
+}
+.ux,.info,.career,.office {
+  background-color: white;
+  margin-bottom: 20px;
+}
+.footlinks3 {
+  margin-left: 50%;
+}
+.sup,.faq,.care,.supcen {
+  margin-bottom: 20px;
+  background-color: white;
 }
 }
